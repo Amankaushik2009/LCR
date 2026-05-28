@@ -43,18 +43,18 @@ Participants should review the [Assignment Submission Guide](https://github.com/
 
 **Assignment Due Dates**
 
-| Assessment   | Content                            | Due Date     |
+| Assessment   | Content                            | Due Dates   | 
 |--------------|------------------------------------|--------------|
-| Assignment 1 | Classification (Sessions 1, 2)     | Sept 7 |
-| Assignment 2 | Regression (Sessions 3, 4)         | Sept 14    |
-| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | Sept 21   |
+| Assignment 1 | Classification (Sessions 1, 2)     | May 19 | 
+| Assignment 2 | Regression (Sessions 3, 4)         | May 25    |
+| Assignment 3 | Clustering & Resampling (Sessions 5, 6) | June 2   |
 
 ### Contacts
-**Questions can be submitted to the _#cohort-6-help_ channel on Slack**
+**Questions can be submitted to the _#dsf1-help_ channel on Slack**
 * Technical Facilitator: **Julia**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06D4QM7YEA)
-* Learning Support Staff: **Ernani**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U06V88X2X3N)
-* Learning Support Staff: **Edward**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U090NAV8Z8U)
-* Learning Support Staff: **Gayathri**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U08R6URRSCT)
+* Learning Support Staff: **Vishakh**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U087AAL9Y78)
+* Learning Support Staff: **Kasra**. Questions can be sent via [Slack](https://uoft-dsi-certificates.slack.com/team/U0ASXQSJBHP)
+
 
 ### Delivery of the Learning Module
 
@@ -75,8 +75,8 @@ The technical facilitator will introduce the concepts through a collaborative li
 * Participants are encouraged to ask questions and collaborate with others to enhance learning.
 * Participants must have a computer and an internet connection to participate in online activities.
 * Participants must not use generative AI such as ChatGPT to generate code to complete assignments. It should be used as a supportive tool to seek out answers to questions you may have.
-* We expect participants to have completed the steps in the [onboarding repo](https://github.com/UofT-DSI/Onboarding/tree/tech-onboarding-docs).
-* We encourage participants to default to having their camera on at all times and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provides real-time feedback for the instructional team. 
+* We expect participants to have completed the steps in the [onboarding repo](https://github.com/UofT-DSI/onboarding/blob/main/environment_setup/README.md).
+* We encourage participants to default to having their camera on at all times and turning the camera off only as needed. This will greatly enhance the learning experience for all participants and provide real-time feedback for the instructional team. 
 
 ## Resources
 Feel free to use the following as resources:
@@ -127,6 +127,8 @@ Alternative Textbook: [Data Science: A First Introduction](https://python.datasc
 ├── 03_instructional_team
 ├── 04_this_cohort
 ├── LICENSE
+├── SETUP.md
+├── pyproject.toml
 └── README.md
 ```
 
@@ -137,5 +139,7 @@ Alternative Textbook: [Data Science: A First Introduction](https://python.datasc
 * **this_cohort**: Additional materials and resources for this cohort.
 * **.gitignore**: Files to exclude from this folder, specified by the Technical Facilitator
 * **LICENSE**: The license for this repository.
+* **SETUP.md**: Contains the steps required to set up this repo for the module.
+* **pyproject.toml**: Tells Python which packages this repo needs to run.
 * **README.md**: This file.
 
